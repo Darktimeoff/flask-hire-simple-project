@@ -19,7 +19,7 @@ else:
 
 app.register_blueprint(main_blueprint)
 app.register_blueprint(сandidates_blueprint)
-app.register_blueprint(vacancies_blueprint, url_prefix='/vacancies')
+app.register_blueprint(vacancies_blueprint)
 
 if __name__ == '__main__':
     app.run(debug=app.config.get('DEBUG', False))
