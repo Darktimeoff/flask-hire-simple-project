@@ -1,0 +1,20 @@
+[
+    {
+        "pk": 1,
+        "company": "One Tech",
+        "position": "QA Lead",
+        "salary": 1000
+    },
+    {
+        "pk": 2,
+        "company": "Due IT",
+        "position": "Python Dev",
+        "salary": 2000
+    },
+    {
+        "pk": 3,
+        "company": "Trida Dev",
+        "position": "React Dev",
+        "salary": 3000
+    }
+]
