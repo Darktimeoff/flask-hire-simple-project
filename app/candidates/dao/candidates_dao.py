@@ -1,5 +1,3 @@
-import json
-import logging
 from classes.dao import Dao
 
 
